@@ -33,7 +33,7 @@ and then below it comes the 4 buttons - suppose a footer navbar is made for this
 ## 4) instructions for the company more info page (cmpinfo.)
 -the navbar should get changed now in the 2/3rd right part of the page, and he format now is portfolio icon, Company name, Amnt available in wallet, account icon.
 -this page should come as redirection after clicking the popped rectangular box only and also this page should be coming on the 2/3rd right side of the page only, the 1/3left side of rumors which was there in the home page should also be here too.
--this page should show all the heading as rumors spreaded related to this company and then below it will be showing all the companies metric (refer to image B) and then at last the same thing should be shown to user either to invest or withdraw in this company 
+-this page should show all the heading as rumors spreaded related to this company and then below it will be showing all the companies metric (refer to https://ticker.finology.in/company/TCS as example to see what are all the metrics that needs to be showcased) and then at last the same thing should be shown to user either to invest or withdraw in this company 
 
 ## 5) instructions for the portfolio page  (portfolio.), 
 -this page when opened should be shown on full screen
